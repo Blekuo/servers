@@ -1,0 +1,1 @@
+docker run --rm -it --net=host -e SECRET_KEY=e883310f5129b663b58c2dcc0123aab1f96b411e9f7c02c441a0266f5de74567 ghcr.io/playit-cloud/playit-agent:0.15
